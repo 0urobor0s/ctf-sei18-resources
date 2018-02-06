@@ -12,6 +12,8 @@ Ao longo da semana podem ser reveladas mais pistas relativas aos desafios.
 
 Todas as flags estarão no formato de uma imagem, a maioria em base64. Quando encontrares uma manda um email para securitychallenge@cesium.di.uminho.pt com o [MD5] da imagem e alguma forma de _Proof of Concept_ (screenshot, explicação...).
 
+Alguns desafios estáticos encontram-se em [Resources](https://github.com/0urobor0s/ctf-sei18-resources), cada um numerado pelo respetivo desafio.
+
 # Desafios
 ## 1 _(1x)_
 _Pista 1_: A flag está no URL.

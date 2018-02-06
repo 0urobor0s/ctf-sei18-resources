@@ -24,14 +24,22 @@ _Pista 1_: Verifica sempre se tens as vacinas em dia!
 ## 3 _(1.5x)_
 _Pista 1_: Os administradores de BD estão muito caros hoje em dia...
 
+_Pista 2_: Se já resolveste o desafio 2 então tenta chegar um pouco mais além.
+
 ## 4 _(2x)_
 _Pista 1_: Primeiro passo para seres um bom pirata: enterra o teu tesouro.
+
+_Pista 2_: You wouldn't steal a car. 
 
 ## 5 _(2x)_
 _Pista 1_: Nem tudo é o que parece.
 
+_Pista 2_: Lembra-te! Todos os 1337 hax0rs têm camadas.
+
 ## 6 _(2x)_
 _Pista 1_: #cesium
+
+_Pista 2_: A forma de comunicação preferida de um 1337 hax0r.
 
 ## 7 _(3x)_
 _Pista 2_: Tens a certeza que sabes tudo o que o teu firmware está a instalar?
@@ -42,8 +50,12 @@ _Pista 1_: Todos os computadores executam código.
 ## 9 _(3x)_
 _Pista 1_: O capitão Crunch espera sempre pelos seus cereais das 11h até às 20h.
 
+_Pista 2_: O capitão Crunch gosta muito de passar férias em Roma.
+
 ## 10 _(4x)_
 _Pista 1_: Paciência é uma virtude.
+
+_Pista 2_: Encontra-nos e diz a mensagem secreta.
 
 ## 11 _(4x)_
 _Pista 1_: Reverse me!

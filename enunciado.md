@@ -70,9 +70,9 @@ _Pista 1_: A soma de todos faz um.
 - Linguagens de Scripting
 - [Queen]
 - Redbull
-- Vim
+- [Vim]
 - Quartas académicas
-- nmap
+- [nmap]
 - [Treino]
 
 # Regulamento
@@ -85,6 +85,8 @@ Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, et
 
 Qualquer dúvida encontrem-nos :sunglasses:
 
+[nmap]: https://nmap.org/
+[Vim]: http://www.vim.org/
 [Treino]: http://www.dvwa.co.uk/
 [Queen]: https://www.youtube.com/watch?v=-tJYN-eG1zk
 [MD5]: https://en.wikipedia.org/wiki/Md5sum
